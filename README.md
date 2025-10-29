@@ -74,7 +74,7 @@
 
 ### 📫 How to reach me:
 
-- 📧 Email: arushashahi@gmail.com  
+- 📧 Email: shahiarusha@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/arusha-shahi/)  
 - 💻 [GitHub](https://github.com/arusha-shahi)
 
