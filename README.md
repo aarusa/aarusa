@@ -9,27 +9,27 @@
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 **Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 About Me
 
 - 🎓 Recently graduated with a **Master’s in Data Analytics (Software Engineering Major)** in Australia  
-- 💻 3+ years of experience as a **Software Engineer**, **Web Designer**, and **UI/UX Designer**  
+- 💻 3+ years of experience as a **Software Engineer** 
 - 🤖 Interested in **Machine Learning**, **Deep Learning**, and **AI-driven applications**  
 - ☁️ Learning **AWS Cloud**, **Data Pipelines**, and **Model Deployment**  
 - 🧠 Passionate about **problem-solving**, **user experience**, and **automation**
@@ -75,8 +75,8 @@
 ### 📫 How to reach me:
 
 - 📧 Email: shahiarusha@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arusha-shahi/)  
-- 💻 [GitHub](https://github.com/arusha-shahi)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arushashahi/)  
+- 💻 [GitHub](https://github.com/aarusa)
 
 ---
 
