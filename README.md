@@ -31,7 +31,6 @@
 - 🎓 Recently graduated with a **Master’s in Data Analytics (Software Engineering Major)** in Australia  
 - 💻 3+ years of experience as a **Software Engineer** 
 - 🤖 Interested in **Machine Learning**, **Deep Learning**, and **AI-driven applications**  
-- ☁️ Learning **AWS Cloud**, **Data Pipelines**, and **Model Deployment**  
 - 🧠 Passionate about **problem-solving**, **user experience**, and **automation**
 
 ---
