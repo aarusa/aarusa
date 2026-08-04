@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Arusha Shahi</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;UI%2FUX+Designer;Machine+Learning+Enthusiast;Data+Analytics+Graduate;AI+and+Cloud+Learner&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Machine+Learning+Enthusiast&center=true&width=500&height=50" />
 </p>
 
 ---
