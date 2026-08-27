@@ -1,86 +1,161 @@
-<h1 align="center">Hey 👋, I'm Arusha Shahi</h1>
+# 👋 Hi, I'm Arusha Shahi
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Machine+Learning+Enthusiast&center=true&width=500&height=50" />
+### Software Engineer | Full-Stack Developer | AI & Backend Applications
+
+I’m a Software Engineer with 3+ years of professional experience building web applications, APIs, and digital products.
+
+I enjoy turning real-world problems into practical software — from backend systems and REST APIs to AI-powered applications and intuitive user experiences.
+
+🎓 Master's in Data Analytics — Software Engineering
+💻 3+ years of Software Engineering experience
+🚀 Building with React, Node.js, Laravel & SQL
+🤖 Exploring AI-powered applications & LLM integrations
+🌏 Based in Australia
+💼 Open to Software Engineering opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+### Tools & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-**Languages & Frameworks:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### 🍽️ YAM — Your AI Meal
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+**AI-driven nutritional recommendation platform**
 
----
+A full-stack application that helps users generate personalised meal recommendations based on their pantry items, preferences and nutritional requirements.
 
-### 🚀 About Me
+**Built with:**
 
-- 🎓 Recently graduated with a **Master’s in Data Analytics (Software Engineering Major)** in Australia  
-- 💻 3+ years of experience as a **Software Engineer** 
-- 🤖 Interested in **Machine Learning**, **Deep Learning**, and **AI-driven applications**  
-- 🧠 Passionate about **problem-solving**, **user experience**, and **automation**
+`React` `Node.js` `Supabase` `AI APIs`
+
+**Key features:**
+
+* 🤖 AI-powered meal and recipe generation
+* 🥕 Pantry tracking
+* 💬 AI nutrition assistant
+* 👤 Personalised recommendations
+* 🔌 API integrations
+* 🗄️ Supabase database
+
+🏆 **Awarded Best Project in the MDA Stream**
 
 ---
 
-### 📦 Featured Projects
+### 🐶 Pupsplash — Dog Grooming Management System
 
-#### 🧮 AI Nutrition Recommendation System
-**A web-based AI system for personalized meal recommendations** based on ingredients and user preferences.  
-- Built using **Python**, **Flask**, and **Machine Learning models**  
-- Deployed with **AWS EC2** and **S3**  
-- Focused on reducing **food waste** and promoting **healthy eating**
+A web-based platform designed to manage dog grooming appointments and customer bookings.
 
-🔗 [View Project](https://github.com/aarusa/your-ai-meal.git)
+**Built with:**
 
----
+`PHP` `Laravel` `MySQL` `HTML` `CSS` `JavaScript`
 
-#### 🐶 Dog Grooming Booking System
-**An online platform for managing pet grooming appointments and client bookings.**  
-- Developed using **PHP (Laravel)** and **MySQL** for backend  
-- Designed responsive UI with **HTML**, **CSS**, and **JavaScript**  
-- Integrated **real-time appointment scheduling** and **email notifications**  
-- Enhanced customer experience with clean, intuitive UX design  
+**Key features:**
 
-🔗 [View Project](https://github.com/aarusa/PupSplash.git)
+* 📅 Appointment management
+* 👥 Customer management
+* 🐕 Pet information
+* 📧 Booking notifications
+* 📱 Responsive interface
 
 ---
 
-### 👩‍💻 Professional Experience
+### ♻️ AI Waste Classification
 
-- **Software Engineer @ SoftNEP** (2018–2021)  
-  ➤ Built scalable web apps using **PHP**, **Laravel**, and **MySQL**
+A computer vision project exploring image classification using transfer learning.
 
-- **Web Designer @ Webifi** (2021–2022, UK)  
-  ➤ Designed responsive, SEO-friendly websites with a focus on **user experience**
+**Technologies:**
 
-- **UI/UX Designer @ Inficare Pvt. Ltd.** (2023–2024)  
-  ➤ Improved usability and design consistency across digital products
+`Python` `TensorFlow` `PyTorch` `MobileNetV2` `Computer Vision`
 
 ---
 
-### 📫 How to reach me:
+## 💼 Professional Experience
 
-- 📧 Email: shahiarusha@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/arushashahi/)  
-- 💻 [GitHub](https://github.com/aarusa)
+**Software Engineer — SoftNEP**
+`2018 – 2021`
+
+Built and maintained web applications using PHP, Laravel, MySQL and JavaScript, working across backend development, databases and application features.
+
+**Web Designer — Webifi**
+`2021 – 2022`
+
+Designed and developed responsive websites with a strong focus on usability, accessibility and user experience.
+
+**UI/UX Designer — Inficare Pvt. Ltd.**
+`2023 – 2024`
+
+Worked on digital product interfaces, improving usability, visual consistency and overall user experience.
 
 ---
 
-### 💬 Let's Connect and Build with AI & Design!
+## 🧠 Currently Focused In
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+```text
+React.js
+   ↓
+Node.js & Backend Development
+   ↓
+AWS & Cloud Engineering
+   ↓
+AI / LLM Applications
+```
+
+I'm particularly interested in building software that combines **strong engineering fundamentals with practical AI capabilities.**
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aarusa&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarusa&layout=compact&hide_border=true" height="165" />
 </p>
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/arushashahi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shahiarusha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+### 💬 Open to opportunities, collaborations and interesting software engineering problems.
+
+Thanks for visiting my profile! ⭐
