@@ -1,6 +1,6 @@
 # Hi, I'm Arusha Shahi 👋
 
-**Software Engineer · AI** based in Australia
+**Software Engineer · AI Enthusiast** based in Australia
 
 I have 3+ years of experience building web applications and APIs, and a Master's in Data Analytics (Software Engineering). I'm building hands-on skills in LLM engineering and AI-powered applications.
 
