@@ -2,7 +2,7 @@
 
 **Software Engineer · AI Enthusiast** based in Australia
 
-I have 3+ years of experience building web applications and APIs, and a Master's in Data Analytics (Software Engineering). I'm building hands-on skills in LLM engineering and AI-powered applications.
+I have 3+ years of experience building web applications and APIs, and a Master's in Data Analytics (Major in Software Engineering). I'm building hands-on skills in LLM engineering and AI-powered applications.
 
 💼 Open to software engineering and AI roles
 
